@@ -1,0 +1,46 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+pubspec.lock
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.log
+*.swp
+*.swo
+
+# Android
+android/
+android/app/build/
+android/.gradle/
+android/local.properties
+android/key.properties
+*.jks
+*.keystore
+
+# iOS
+ios/Flutter/
+ios/Pods/
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+*.sync/
+*.xcuserstate
+ios/.xcode.env.local
+
+# macOS
+macos/Flutter/
+macos/Pods/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+.DS_Store
